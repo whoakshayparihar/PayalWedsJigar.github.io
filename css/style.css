@@ -2102,7 +2102,7 @@ form label {
 
 @media screen and (max-width: 768px) {
     .fh5co-cover {
-        height: 100vh;
+        height: 70vh;
     }
     .simply-countdown>.simply-section {
         display: inline-flex;
